@@ -93,7 +93,7 @@ change_my_mind = True
 
 if change_my_mind == True:
     change_my_mind = False
-elif:
+else:
     change_my_mind = True
 
 
